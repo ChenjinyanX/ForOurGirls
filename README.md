@@ -12,11 +12,11 @@
 
 #### 女性故事
 
-- [Abel奖获得者Karen Uhlenbeck访谈录](Stories/20211028_KarenUhlenbeck.md) 
+- [Abel奖获得者Karen Uhlenbeck访谈录](Reading/20211028_KarenUhlenbeck.md) 
 
-- [学数学的女生，真酷](Stories/20211028_CoolMathGirls.md) : 华裔女数学家、美国艺术与科学院院士张圣蓉
-- [莫道数学难煞女性](Stories/20211028_JuliaRobinson.md) : 美国数学会的首位女会长朱丽亚·罗宾逊
-- [数学女博士后奥运会夺冠摘金](Stories/20211028_AnnaKiesenhofe.md) : 奥地利数学博士后安娜·基森霍夫 (Anna Kiesenhofer) 
+- [学数学的女生，真酷](Reading/20211028_CoolMathGirls.md) : 华裔女数学家、美国艺术与科学院院士张圣蓉
+- [莫道数学难煞女性](Reading/20211028_JuliaRobinson.md) : 美国数学会的首位女会长朱丽亚·罗宾逊
+- [数学女博士后奥运会夺冠摘金](Reading/20211028_AnnaKiesenhofe.md) : 奥地利数学博士后安娜·基森霍夫 (Anna Kiesenhofer) 
 
 #### 其他故事
 
@@ -26,7 +26,7 @@
 
 #### 其他书籍
 
-- [她们的传奇](Books/20211028_TheirLegend.md)
+- [她们的传奇](Reading/20211028_TheirLegend.md)
 
 ### 音像材料
 
