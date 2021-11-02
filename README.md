@@ -60,3 +60,7 @@
 
 ### 英语
 
+## 社交
+
+[帮孩子交朋友指南](SEL/20211102_HelpYourKidsMakeFriends.md)
+
