@@ -49,7 +49,7 @@
 
 - **PROMYS青少年科学家数学项目**资源
   - [PROMYS青少年科学家数学项目推荐书单](Academic/20211102_PromysMathReadingList.md)
-  - [PROMYS青少年科学家数学项目相关资源](Academic/20211102_PromysMathStudentResou.md)
+  - [PROMYS青少年科学家数学项目相关资源](Academic/20211102_PromysStudentResou.md)
 - [剑桥大学数学系推荐书单](Academic/20211102_CamMathReadingList.md)
 - [犹他大学数学系书单](Academic/20211102_UtahMathReadingList.md)
 - 
