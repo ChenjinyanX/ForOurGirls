@@ -16,7 +16,7 @@
 
 - [学数学的女生，真酷](Reading/20211028_CoolMathGirls.md) : 华裔女数学家、美国艺术与科学院院士张圣蓉
 - [莫道数学难煞女性](Reading/20211028_JuliaRobinson.md) : 美国数学会的首位女会长朱丽亚·罗宾逊
-- [数学女博士后奥运会夺冠摘金](Reading/20211028_AnnaKiesenhofe.md) : 奥地利数学博士后安娜·基森霍夫 (Anna Kiesenhofer) 
+- [数学女博士后奥运会夺冠摘金](Reading/20211028_AnnaKiesenhofer.md) : 奥地利数学博士后安娜·基森霍夫 (Anna Kiesenhofer) 
 
 #### 其他故事
 
