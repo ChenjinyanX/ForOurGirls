@@ -57,9 +57,9 @@
 #### 其他书籍
 
 - [第二性](People/20211103_TheSecondSex_SimonedeBeauvoir.md): 西蒙娜・德・波伏娃巨著，“有史以来讨论妇女的最健全、最理智、最充满智慧的一本书”，台版为最佳，大陆郑克鲁版次之。
-
 - [她们的传奇](People/20211028_TheirLegend.md)
 - [战争中没有女性](People/20211103_NoWemenInWar.md) ：这是历史洪流中她们自己的故事，战争从未让女人走开。
+- 了解你的人生脚本，重写你的人生代码：[自私的基因/机器人叛乱/人生脚本](People/20211103_KnowHowYouToBeCode.md)
 
 #### 其他
 
