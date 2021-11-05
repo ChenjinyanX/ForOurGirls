@@ -36,7 +36,7 @@
 
 #### 女性故事
 
-- [打破女性天花板，叶叔华院士：想要什么，勇敢争取](People/20211105_YeShuHua.md)
+- [打破女性天花板，95岁叶叔华院士：想要什么，勇敢争取](People/20211105_YeShuHua.md)
 
 - [Abel奖获得者Karen Uhlenbeck访谈录](People/20211028_KarenUhlenbeck.md) 
 - [学数学的女生，真酷](People/20211028_CoolMathGirls.md) : 华裔女数学家、美国艺术与科学院院士张圣蓉
@@ -81,6 +81,8 @@
 #### 音频
 
 - [以女性视角看男作家和男导演作品（上）  | 小宇宙 ](https://www.xiaoyuzhoufm.com/episode/60c50e46c2ec9bd456ec608b?s=eyJ1IjogIjVlN2Y1NmE0MGE3YmQ4MDljMmU5OTdkZCJ9)
+- [海马星球|发掘女性的力量在线收听-喜马拉雅](https://www.ximalaya.com/renwenjp/12558418/)
+- [随机波动|深信现场，看见个体：与周轶君聊世界与新闻的变迁](https://www.stovol.club/061)
 
 ## 学术学习
 
