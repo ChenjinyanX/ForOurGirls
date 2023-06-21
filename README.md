@@ -104,7 +104,7 @@
 
 #### 文言文
 
-[子贤老师讲座|如何学好文言文](Academic/20130621_classicalChinese)
+[子贤老师讲座|如何学好文言文](Academic/20130621_classicalChinese.md)
 
 
 
